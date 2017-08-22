@@ -1,4 +1,4 @@
-# pq-fun
+# we-qq-runner
 
 > 尝试QQ的一些聊天玩法
 
